@@ -17,7 +17,7 @@ const Footer: FC = () => {
             <h4>Apps</h4>
             <ul>
               <li><a href="https://rroth42086.github.io/scaffold-website/">Scaffold</a></li>
-              <li><a href="https://rroth42086.github.io/hydra-website/">Crane</a></li>
+              <li><a href="https://rroth42086.github.io/hydra-website/">Depot</a></li>
               <li><a href="https://rroth42086.github.io/slater-website/">Anvil</a></li>
               <li><a href="https://rroth42086.github.io/postprod3-website/">Truss</a></li>
             </ul>

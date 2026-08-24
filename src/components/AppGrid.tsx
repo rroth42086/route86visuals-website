@@ -18,7 +18,7 @@ const apps: AppEntry[] = [
     href: 'https://rroth42086.github.io/scaffold-website/',
   },
   {
-    name: 'Crane',
+    name: 'Depot',
     tagline: 'Bulk YouTube upload with full per-video control, plus a channel health dashboard.',
     status: 'Coming Soon',
     color: '#3bc6eb',
