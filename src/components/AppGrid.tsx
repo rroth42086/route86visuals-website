@@ -32,7 +32,7 @@ const apps: AppEntry[] = [
     href: 'https://rroth42086.github.io/slater-website/',
   },
   {
-    name: 'Truss',
+    name: 'Vault',
     tagline: 'Shared, S3-backed cloud storage for video teams — a faster, self-hosted alternative to LucidLink.',
     status: 'Coming Soon',
     color: '#6579e2',

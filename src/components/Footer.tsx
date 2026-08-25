@@ -19,7 +19,7 @@ const Footer: FC = () => {
               <li><a href="https://rroth42086.github.io/scaffold-website/">Scaffold</a></li>
               <li><a href="https://rroth42086.github.io/hydra-website/">Depot</a></li>
               <li><a href="https://rroth42086.github.io/slater-website/">Anvil</a></li>
-              <li><a href="https://rroth42086.github.io/postprod3-website/">Truss</a></li>
+              <li><a href="https://rroth42086.github.io/postprod3-website/">Vault</a></li>
             </ul>
           </div>
           <div className="link-group">
